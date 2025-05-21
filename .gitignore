@@ -1,0 +1,3 @@
+# Git ignore configuration
+# Ignore node_modules folders inside first level directories
+*/node_modules/
